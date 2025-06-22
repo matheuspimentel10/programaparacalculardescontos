@@ -1,2 +1,4 @@
-# programaparacalculardescontos
-Programa para calcular descontos e valores finais de compras
+
+# Programa para descontos
+
+Programa criado para cálculo do valor final de compras em uma loja, de acordo com uma tabela de descontos específica.
